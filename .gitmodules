@@ -1,0 +1,6 @@
+[submodule "sdk"]
+	path = sdk
+	url = https://github.com/e-biz/designmyapp-sdk
+[submodule "sample"]
+	path = sample
+	url = https://github.com/e-biz/designmyapp-template-mygallery
