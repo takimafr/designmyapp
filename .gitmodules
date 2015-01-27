@@ -4,3 +4,6 @@
 [submodule "sample"]
 	path = sample
 	url = https://github.com/e-biz/designmyapp-template-mygallery
+[submodule "common-api"]
+	path = common-api
+	url = https://github.com/e-biz/designmyapp-common-api

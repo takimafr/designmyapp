@@ -27,6 +27,23 @@ http://developer.designmyapp.mobi
 
  * Create your developer account, and test your templates on your sandbox center!
 
+# Maven
+```
+<dependency>
+    <groupId>mobi.designmyapp</groupId>
+    <artifactId>designmyapp-sdk</artifactId>
+    <version>${designmyapp-sdk.version}</version>
+</dependency>
+<dependency>
+    <groupId>mobi.designmyapp</groupId>
+    <artifactId>designmyapp-common-api</artifactId>
+    <version>${designmyapp-sdk.version}</version>
+</dependency>
+```
+
+Warning: The artifact designmyapp-common on Maven Central is Deprecated and should not be used anymore. Only designmyapp-common-api and designmyapp-sdk should be included.
+
+
 # Issues
 
 Track issues with the following tags:
