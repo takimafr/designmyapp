@@ -48,13 +48,13 @@ Warning: The artifact designmyapp-common on Maven Central is Deprecated and shou
 
 # Issues
 
-Track issues with the following tags:
+Track issues with the following tags:  
 [Concept]: for all issues related to concept.designmyapp.mobi  
 [Developer]: for all issues related to developer.designmyapp.mobi  
 [Portal]: for all issues related to www.designmyapp.mobi  
 [API]: for all issues related to API Keys, and api.designmyapp.mobi  
 [SDK]: for all issues related to the SDK or common libraries  
 [Sample]: for all issues related to the template samples  
-[FI-Content]: for all issues related to the Future Internet Content project
-[OSM]: for all issues related to the OpenStreetMap contributor app, or the openstreetmap website.
+[FI-Content]: for all issues related to the Future Internet Content project  
+[OSM]: for all issues related to the OpenStreetMap contributor app, or the openstreetmap website.  
 [Other]: for all other issues  
