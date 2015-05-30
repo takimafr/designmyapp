@@ -2,7 +2,7 @@
 
 This git repository concentrates all public resources and information on how to get started with the development of templates on DesignMyApp.  
 
-Please track all issues related to either the public platform, the API, or the SDK on this repository.
+Please track all issues related to either the public platform, the OpenStreetMap related projects, the API, or the SDK on this repository.
 
 Follow us on Twitter:  
 @DesignMyApp
@@ -27,6 +27,8 @@ http://developer.designmyapp.mobi
 
  * Create your developer account, and test your templates on your sandbox center!
 
+Current version: **2.3.0**
+
 # Maven
 ```
 <dependency>
@@ -47,11 +49,12 @@ Warning: The artifact designmyapp-common on Maven Central is Deprecated and shou
 # Issues
 
 Track issues with the following tags:
-
 [Concept]: for all issues related to concept.designmyapp.mobi  
 [Developer]: for all issues related to developer.designmyapp.mobi  
 [Portal]: for all issues related to www.designmyapp.mobi  
 [API]: for all issues related to API Keys, and api.designmyapp.mobi  
 [SDK]: for all issues related to the SDK or common libraries  
 [Sample]: for all issues related to the template samples  
+[FI-Content]: for all issues related to the Future Internet Content project
+[OSM]: for all issues related to the OpenStreetMap contributor app, or the openstreetmap website.
 [Other]: for all other issues  
